@@ -23,7 +23,7 @@ load_dotenv()
 brwoserless_api_key = os.getenv("BROWSERLESS_API_KEY")
 serper_api_key = os.getenv("SERP_API_KEY")
 
-# 1. Tool for searching
+# 1. Tool for searching!
 
 
 def search(query):
